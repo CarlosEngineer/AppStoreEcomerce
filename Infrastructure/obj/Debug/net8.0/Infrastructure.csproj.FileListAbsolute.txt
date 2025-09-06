@@ -13,3 +13,4 @@ C:\Users\Carlitos\Desktop\AppEcomerce\Infrastructure\obj\Debug\net8.0\Infrastruc
 C:\Users\Carlitos\Desktop\AppEcomerce\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\Carlitos\Desktop\AppEcomerce\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\Carlitos\Desktop\AppEcomerce\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Carlitos\Desktop\AppEcomerce\infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
